@@ -6,17 +6,19 @@ The evaluation applied on 100 results for each of Encoder Attention, Decoder Att
 # Results files
 **enco.ref**: encoder reference translation<br> 
 **enco.con**: trasndformer encoder translation<br> 
-**enco.de**: the input German sentences<br> 
+**enco.de**: the input German sentences (not used in the calculation)<br> 
 <br> 
 **deco.ref**: decoder reference translation<br> 
 **deco.con**: trasndformer decoder translation<br> 
-**deco.de**: the input German sentences<br> 
+**deco.de**: the input German sentences (not used in the calculation)<br> 
 <br> 
 **enco-deco.ref**: encoder-decoder reference translation<br> 
 **enco-deco.con**: trasndformer encoder-decoder translation<br> 
-**enco-deco.de**: the input German sentences<br> 
+**enco-deco.de**: the input German sentences (not used in the calculation)<br> 
 <br> 
 <br> 
 # Execution
-!pip install nltk<br> 
-run **blue.py**
+Install nltk library<br>
+**!pip install nltk**<br>
+<br>
+Run **blue.py** for each type of encoder. Ensure to change the reference and translation files to match those used by your transformer model.
