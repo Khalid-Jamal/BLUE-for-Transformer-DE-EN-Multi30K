@@ -21,4 +21,13 @@ The evaluation applied on 100 results for each of Encoder Attention, Decoder Att
 Install nltk library<br>
 **!pip install nltk**<br>
 <br>
-Run [**blue.py**](https://github.com/Khalid-Jamal/BLUE-for-Transformer-DE-EN-Multi30K/blob/main/blue.py) for each type of encoder. Ensure to change the reference and translation files to match those used by your transformer model.
+Run [**blue.py**](https://github.com/Khalid-Jamal/BLUE-for-Transformer-DE-EN-Multi30K/blob/main/blue.py) for each type of encoder. Ensure to change the reference and translation files to match those used by your transformer model.<br>
+<br>
+<br>
+# Citation
+If you use this evaluation, please cite it as below.<br>
+author = Abdelqader,Khaled J.<br>
+orcid  = [0000-0001-7920-2227](https://orcid.org/0000-0001-7920-2227)<br>
+title  = BLUE evaluation for Intention multi-head Transformer translation of German-English based on Multi30K dataset<br>
+month  = May<br>
+year   = 2024
