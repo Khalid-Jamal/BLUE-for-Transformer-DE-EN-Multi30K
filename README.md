@@ -28,6 +28,6 @@ Run [**blue.py**](https://github.com/Khalid-Jamal/BLUE-for-Transformer-DE-EN-Mul
 If you use this evaluation, please cite it as below.<br>
 author = Abdelqader,Khaled J.<br>
 orcid  = [0000-0001-7920-2227](https://orcid.org/0000-0001-7920-2227)<br>
-title  = BLUE evaluation for Intention multi-head Transformer translation of German-English based on Multi30K dataset<br>
+title  = BLUE evaluation for Self-Attention multi-head Transformer translation from German to English using Multi30K dataset<br>
 month  = May<br>
 year   = 2024
